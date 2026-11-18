@@ -1,19 +1,19 @@
 {
   "product": "Cyber Quiz Beheer",
-  "version": "7.6.0",
-  "build": "760-20261118",
+  "version": "7.7.0",
+  "build": "770-20261118",
   "channel": "stable",
-  "tag": "v7.6.0",
+  "tag": "v7.7.0",
   "published": "2026-11-18",
   "notes": {
-    "nl": "Groep delen via WhatsApp, e-mail of kopiëren: link met de groepscode en de download-link van de app.",
-    "en": "Share a group via WhatsApp, e-mail or copy: link with the group code and the app download link."
+    "nl": "Vragen met afbeelding, code-blok, 2 tot 6 antwoorden of zelf invullen (met nakijkregels en Toch goed). Excel en quizpakketten nemen alles mee.",
+    "en": "Questions with an image, code block, 2 to 6 answers or a typed answer (with matching rules and Approve anyway). Excel and quiz packs include everything."
   },
   "installer": {
-    "filename": "CyberQuizBeheer_v7.6.0_Setup.exe",
-    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.6.0/CyberQuizBeheer_v7.6.0_Setup.exe",
-    "sha256": "d2862ca8c936ee6342c7ccd1c2a2b1c86f5a166b7f4461b728b9e461b7f54cfa"
+    "filename": "CyberQuizBeheer_v7.7.0_Setup.exe",
+    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.7.0/CyberQuizBeheer_v7.7.0_Setup.exe",
+    "sha256": "6093222f6534ff43ea35c25a558980f10c8466a4faa91769deb4ad188e2844b6"
   },
-  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.6.0/CyberQuizBeheer_v7.6.0_Setup.exe",
-  "sha256": "d2862ca8c936ee6342c7ccd1c2a2b1c86f5a166b7f4461b728b9e461b7f54cfa"
+  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.7.0/CyberQuizBeheer_v7.7.0_Setup.exe",
+  "sha256": "6093222f6534ff43ea35c25a558980f10c8466a4faa91769deb4ad188e2844b6"
 }
