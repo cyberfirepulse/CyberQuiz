@@ -1,19 +1,18 @@
 {
-  "product": "Cyber Quiz Beheer",
-  "version": "7.0.0",
-  "build": "700-20261117",
+  "product": "CyberQuiz",
+  "version": "7.6.0",
+  "versionCode": 76,
   "channel": "stable",
-  "tag": "v7.0.0",
-  "published": "2026-11-17",
+  "tag": "CyberQuiz-v7.6.0",
+  "published": "2026-11-18",
   "notes": {
-    "en": "First version as an installer: customers, accounts, licence, branding, quiz packs, classroom view.",
-    "nl": "Eerste versie als installer: klanten, accounts, licentie, huisstijlen, quizpakketten, klasweergave."
+    "en": "Trainer mode: share a group via WhatsApp, e-mail and more (link with the group code). Forgot password on the trainer login.",
+    "nl": "Trainermodus: groep delen via WhatsApp, e-mail en meer (link met de groepscode). Wachtwoord vergeten bij het inloggen als trainer."
   },
-  "installer": {
-    "filename": "CyberQuizBeheer_v7.0.0_Setup.exe",
-    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.0.0/CyberQuizBeheer_v7.0.0_Setup.exe",
-    "sha256": "e8f0c360b4523dcf0f15bbfe3b33955077f69436fbd7624f9488be03e31a105d"
-  },
-  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.0.0/CyberQuizBeheer_v7.0.0_Setup.exe",
-  "sha256": "e8f0c360b4523dcf0f15bbfe3b33955077f69436fbd7624f9488be03e31a105d"
+  "apk": {
+    "filename": "CyberQuiz-7.6.0.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CyberQuiz-v7.6.0/CyberQuiz-7.6.0.apk",
+    "sha256": "ac964573bc84514046fb2f3045a952a1d0a431aa20c8f453eb821a89a5cf7ae9",
+    "size": 20531637
+  }
 }
