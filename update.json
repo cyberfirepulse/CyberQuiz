@@ -1,19 +1,19 @@
 {
   "product": "Cyber Quiz Beheer",
-  "version": "7.7.0",
-  "build": "770-20261118",
+  "version": "7.8.0",
+  "build": "780-20261120",
   "channel": "stable",
-  "tag": "v7.7.0",
-  "published": "2026-11-18",
+  "tag": "v7.8.0",
+  "published": "2026-11-20",
   "notes": {
-    "nl": "Vragen met afbeelding, code-blok, 2 tot 6 antwoorden of zelf invullen (met nakijkregels en Toch goed). Excel en quizpakketten nemen alles mee.",
-    "en": "Questions with an image, code block, 2 to 6 answers or a typed answer (with matching rules and Approve anyway). Excel and quiz packs include everything."
+    "nl": "Certificaat per groep: aan/uit, geslaagd vanaf een percentage, alleen in de eerste N pogingen, variant A (CyberFirePulse) of B (huisstijl), ondertekenaar en titel.",
+    "en": "Certificate per group: on/off, pass mark as a percentage, only in the first N attempts, variant A (CyberFirePulse) or B (house style), signer and title."
   },
   "installer": {
-    "filename": "CyberQuizBeheer_v7.7.0_Setup.exe",
-    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.7.0/CyberQuizBeheer_v7.7.0_Setup.exe",
-    "sha256": "6093222f6534ff43ea35c25a558980f10c8466a4faa91769deb4ad188e2844b6"
+    "filename": "CyberQuizBeheer_v7.8.0_Setup.exe",
+    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.8.0/CyberQuizBeheer_v7.8.0_Setup.exe",
+    "sha256": "7c8a94b09482daed6b129305e7699fc4a77904f038b9471286980207bb2e742d"
   },
-  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.7.0/CyberQuizBeheer_v7.7.0_Setup.exe",
-  "sha256": "6093222f6534ff43ea35c25a558980f10c8466a4faa91769deb4ad188e2844b6"
+  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.8.0/CyberQuizBeheer_v7.8.0_Setup.exe",
+  "sha256": "7c8a94b09482daed6b129305e7699fc4a77904f038b9471286980207bb2e742d"
 }
