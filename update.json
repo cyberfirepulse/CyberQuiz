@@ -1,19 +1,19 @@
 {
   "product": "Cyber Quiz Beheer",
-  "version": "7.9.0",
-  "build": "790-20261120",
+  "version": "7.9.1",
+  "build": "791-20261120",
   "channel": "stable",
-  "tag": "v7.9.0",
+  "tag": "v7.9.1",
   "published": "2026-11-20",
   "notes": {
-    "nl": "Lesmodules (proef): lesmateriaal (PDF) + quiz -> cijfer, met instelbare cesuur, weging en welke poging telt. Nieuw tabblad Cijfers per groep met export naar Excel/CSV.",
-    "en": "Lesson modules (preview): lesson material (PDF) + quiz -> grade, with adjustable pass mark, weight and which attempt counts. New Grades tab per group with Excel/CSV export."
+    "nl": "Lesmodules veiliger: balk 'NIEUWE lesmodule' of 'WIJZIGEN', waarschuwing voordat een bestaande module een andere titel of PDF krijgt (met keuze 'Nieuwe module maken'), quiz moet gekozen worden, '+ Nieuwe module' opent meteen de PDF-keuze.",
+    "en": "Safer lesson modules: 'NEW lesson module' or 'EDITING' bar, warning before an existing module gets another title or PDF (with 'Create new module' option), quiz must be chosen, '+ New module' opens the PDF picker right away."
   },
   "installer": {
-    "filename": "CyberQuizBeheer_v7.9.0_Setup.exe",
-    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.9.0/CyberQuizBeheer_v7.9.0_Setup.exe",
-    "sha256": "27802c0f203768fd2d13e94affe4e09af491a1fc7ef0f72caa26121b5a228ec2"
+    "filename": "CyberQuizBeheer_v7.9.1_Setup.exe",
+    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.9.1/CyberQuizBeheer_v7.9.1_Setup.exe",
+    "sha256": "da7cc42a7561fdeb265616e9390ec482cacda8e7fcbd6545decbe1d8833120b2"
   },
-  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.9.0/CyberQuizBeheer_v7.9.0_Setup.exe",
-  "sha256": "27802c0f203768fd2d13e94affe4e09af491a1fc7ef0f72caa26121b5a228ec2"
+  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v7.9.1/CyberQuizBeheer_v7.9.1_Setup.exe",
+  "sha256": "da7cc42a7561fdeb265616e9390ec482cacda8e7fcbd6545decbe1d8833120b2"
 }
