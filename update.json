@@ -1,19 +1,19 @@
 {
   "product": "Cyber Quiz Beheer",
-  "version": "8.1.0",
-  "build": "810-20261124",
+  "version": "8.2.0",
+  "build": "820-20261124",
   "channel": "stable",
-  "tag": "v8.1.0",
+  "tag": "v8.2.0",
   "published": "2026-11-24",
   "notes": {
-    "nl": "Code-oefeningen: stap voor stap code aanvullen met modeltrein-simulatie (sein, wissel, fluit), hint en een stap terug bij fout, testen als student en resultaten per groep. Inclusief alles van 8.0 (klikvraag).",
-    "en": "Code exercises: complete code step by step with a model train simulation (signal, switch, whistle), hint and one step back on a mistake, test as student and results per group. Includes everything from 8.0 (click question)."
+    "nl": "Lesmodules: les + code-oefening en/of quiz, per onderdeel zelf instellen wat telt, welke poging, cesuur en weging; eindcijfer met schaal, afronding en voldoende-regel. Cijfers rekenen alles mee.",
+    "en": "Lesson modules: lesson + code exercise and/or quiz, per part set what counts, which attempt, pass mark and weight; final grade with scale, rounding and pass rule. Grades include everything."
   },
   "installer": {
-    "filename": "CyberQuizBeheer_v8.1.0_Setup.exe",
-    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.1.0/CyberQuizBeheer_v8.1.0_Setup.exe",
-    "sha256": "4603cbb171248102af1a6e4058aef5d98bd4b08cb7a8e851d13cfe0d5ca70b0f"
+    "filename": "CyberQuizBeheer_v8.2.0_Setup.exe",
+    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.2.0/CyberQuizBeheer_v8.2.0_Setup.exe",
+    "sha256": "0e8da86c78ad4d5ef85506fd679f96f7fe95d64cbc2866d0310f77fc01ebd76f"
   },
-  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.1.0/CyberQuizBeheer_v8.1.0_Setup.exe",
-  "sha256": "4603cbb171248102af1a6e4058aef5d98bd4b08cb7a8e851d13cfe0d5ca70b0f"
+  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.2.0/CyberQuizBeheer_v8.2.0_Setup.exe",
+  "sha256": "0e8da86c78ad4d5ef85506fd679f96f7fe95d64cbc2866d0310f77fc01ebd76f"
 }
