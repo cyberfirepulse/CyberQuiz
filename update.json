@@ -1,16 +1,19 @@
-Cyber Quiz Beheer 8.4.0 
-
-NL
-- Nieuw tabblad 🎓 Cursussen: stappen (les, oefenen, toets, examen) in een vaste volgorde, met per stap een voorwaarde (eerst een les gelezen of een score gehaald), een lees-eis per les (minimale leestijd, tot onderaan scrollen, tussenvragen) en verplicht ja/nee.
-- 📊 Voortgang per groep: deelnemers × stappen in kleur, een stap handmatig vrijgeven, export naar Excel en PDF.
-- Cursus gehaald = alle verplichte stappen gehaald → certificaat (als de groep certificaten geeft).
-- Nieuwe database-regels: publiceer ze via Database → Regels bekijken / publiceren.
-
-EN
-- New 🎓 Courses tab: steps (lesson, practice, test, exam) in a fixed order, with a condition per step (read a lesson or reach a score first), a reading requirement per lesson (minimum reading time, scroll to bottom, in-lesson questions) and required yes/no.
-- 📊 Progress per group: participants × steps in colour, manually release a step, export to Excel and PDF.
-- Course completed = all required steps completed → certificate (if the group issues certificates).
-- New database rules: publish them via Database → View / publish rules.
-
-SHA-256 CyberQuizBeheer_v8.4.0_Setup.exe:
-e3d52cbdb2d689a498a9b73773c12ec4a6241df0d192ddbce26da77da9596bc6
+{
+  "product": "Cyber Quiz Beheer",
+  "version": "8.4.0",
+  "build": "840-20261125",
+  "channel": "stable",
+  "tag": "v8.4.0",
+  "published": "2026-11-25",
+  "notes": {
+    "nl": "Cursussen: nieuw tabblad 🎓 Cursussen met stappen (les, oefenen, toets, examen), voorwaarden per stap, lees-eis per les (leestijd, tot onderaan scrollen, tussenvragen) en verplicht ja/nee. Voortgang per groep in kleur, stap handmatig vrijgeven, export naar Excel en PDF. Certificaat bij een gehaalde cursus.",
+    "en": "Courses: new 🎓 Courses tab with steps (lesson, practice, test, exam), conditions per step, reading requirement per lesson (reading time, scroll to bottom, in-lesson questions) and required yes/no. Progress per group in colour, manually release a step, export to Excel and PDF. Certificate for a completed course."
+  },
+  "installer": {
+    "filename": "CyberQuizBeheer_v8.4.0_Setup.exe",
+    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.4.0/CyberQuizBeheer_v8.4.0_Setup.exe",
+    "sha256": "e3d52cbdb2d689a498a9b73773c12ec4a6241df0d192ddbce26da77da9596bc6"
+  },
+  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.4.0/CyberQuizBeheer_v8.4.0_Setup.exe",
+  "sha256": "e3d52cbdb2d689a498a9b73773c12ec4a6241df0d192ddbce26da77da9596bc6"
+}
