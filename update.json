@@ -1,19 +1,19 @@
 {
   "product": "Cyber Quiz Beheer",
-  "version": "8.4.1",
-  "build": "841-20261125",
+  "version": "8.5.0",
+  "build": "850-dev",
   "channel": "stable",
-  "tag": "v8.4.1",
+  "tag": "v8.5.0",
   "published": "2026-11-25",
   "notes": {
-    "nl": "Cursussen met tegels: elke cursus heeft een plaatje (emoji) en een omschrijving. Een lesstap kiest nu direct een PDF. Nieuwe simulatie 'arduino' voor code-oefeningen.",
-    "en": "Courses as tiles: each course has an icon (emoji) and a description. A lesson step now picks a PDF directly. New 'arduino' simulation for code exercises."
+    "nl": "Praktijklabs: interactieve praktijkopdrachten als onderdeel van cursussen, lesmodules en toetsen, met automatische beoordeling. Het microcontrollerlab (9 opdrachten) is beschikbaar. CQPack kan praktijkopdrachten en simulatiebestanden im- en exporteren.",
+    "en": "Practice labs: interactive practice assignments in courses, lesson modules and tests, with automatic grading. The microcontroller lab (9 assignments) is available. CQPack imports and exports practice assignments and simulation files."
   },
   "installer": {
-    "filename": "CyberQuizBeheer_v8.4.1_Setup.exe",
-    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.4.1/CyberQuizBeheer_v8.4.1_Setup.exe",
-    "sha256": "464adf6f39d35f13cff77fdbd3c55a71228b89c51d23edcfc9deae781c67eee7"
+    "filename": "CyberQuizBeheer_v8.5.0_Setup.exe",
+    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.5.0/CyberQuizBeheer_v8.5.0_Setup.exe",
+    "sha256": "83334355c30ee5752a2232984511c54142af04a7a92326dc052afe9d308265a4"
   },
-  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.4.1/CyberQuizBeheer_v8.4.1_Setup.exe",
-  "sha256": "464adf6f39d35f13cff77fdbd3c55a71228b89c51d23edcfc9deae781c67eee7"
+  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.5.0/CyberQuizBeheer_v8.5.0_Setup.exe",
+  "sha256": "83334355c30ee5752a2232984511c54142af04a7a92326dc052afe9d308265a4"
 }
