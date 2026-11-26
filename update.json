@@ -1,19 +1,19 @@
 {
   "product": "Cyber Quiz Beheer",
-  "version": "8.5.0",
-  "build": "850-dev",
+  "version": "8.5.1",
+  "build": "851-20261126",
   "channel": "stable",
-  "tag": "v8.5.0",
-  "published": "2026-11-25",
+  "tag": "v8.5.1",
+  "published": "2026-11-26",
   "notes": {
-    "nl": "Praktijklabs: interactieve praktijkopdrachten als onderdeel van cursussen, lesmodules en toetsen, met automatische beoordeling. Het microcontrollerlab (9 opdrachten) is beschikbaar. CQPack kan praktijkopdrachten en simulatiebestanden im- en exporteren.",
-    "en": "Practice labs: interactive practice assignments in courses, lesson modules and tests, with automatic grading. The microcontroller lab (9 assignments) is available. CQPack imports and exports practice assignments and simulation files."
+    "nl": "Leerroute voor de docent: presentatie-PDF per cursus, 'voorbereiding' op een stap, en een tijdvak per stap dat ook in de database-regels wordt afgedwongen. Praktijklabs kunnen nu algemeen worden geëxporteerd en geïmporteerd.",
+    "en": "Learning route for the instructor: presentation PDF per course, a 'preparation' marker on a step, and a time window per step enforced in the database rules. Practice labs can now be exported and imported generically."
   },
   "installer": {
-    "filename": "CyberQuizBeheer_v8.5.0_Setup.exe",
-    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.5.0/CyberQuizBeheer_v8.5.0_Setup.exe",
-    "sha256": "83334355c30ee5752a2232984511c54142af04a7a92326dc052afe9d308265a4"
+    "filename": "CyberQuizBeheer_v8.5.1_Setup.exe",
+    "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.5.1/CyberQuizBeheer_v8.5.1_Setup.exe",
+    "sha256": "7732a42ba8dc4c3d7133b8d3f3b12773a81b100e20e66c8d34c90fbb306bf3ab"
   },
-  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.5.0/CyberQuizBeheer_v8.5.0_Setup.exe",
-  "sha256": "83334355c30ee5752a2232984511c54142af04a7a92326dc052afe9d308265a4"
+  "download_url": "https://github.com/cyberfirepulse/CyberQuiz/releases/download/v8.5.1/CyberQuizBeheer_v8.5.1_Setup.exe",
+  "sha256": "7732a42ba8dc4c3d7133b8d3f3b12773a81b100e20e66c8d34c90fbb306bf3ab"
 }
